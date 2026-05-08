@@ -1,1 +1,1 @@
-# Reproducing-Reasoning-Emergence-in-Small-LLMs-via-GRPO-Post-Training
+# Reproducing Reasoning Emergence in Small LLMs via GRPO Post-Training
