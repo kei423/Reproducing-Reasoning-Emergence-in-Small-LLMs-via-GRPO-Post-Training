@@ -7,7 +7,7 @@
 - `GRPO-lora`: Directory stores the weights of the GRPO model
 - `SFT-lora`: Directory stores the weights of the SFT warmed-up model
 - `CS272_Final_Project.ipynb`: Colab notebook containing all the training and evaluation code for the project
-- `CS272_QuickStart_Test.ipynb`: Colab notebook showcasing an example for loading a model's weights
+- `CS272_QuickStart_Test.ipynb`: Colab notebook showcasing an example for loading a model's weights and an example of prompting
 
 
 ## Dependencies
